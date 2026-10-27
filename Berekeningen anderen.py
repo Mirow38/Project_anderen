@@ -1,8 +1,8 @@
 import wiskunde
 
-a = wiskunde.faculiteit(20)
+a = wiskunde.faculiteit(180)
 
 print (a)
 
 
-print (wiskunde.oppervlak_cirkel_sector (30,  5))
+print (wiskunde.oppervlak_cirkel_sector (6,  31))
